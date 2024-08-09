@@ -36,7 +36,6 @@
 
 #spinner {
 	background: ghostwhite;
-	background-image: url(../../../../../Downloads/weather.jpg);
 	height: 100vh;
 	width: 100%;
 	position: fixed;
