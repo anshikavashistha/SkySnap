@@ -19,7 +19,7 @@
 	--brand-secondary-color: rgb(124, 183, 241);
 	--footer-nav-border-radius: 30px;
 	--footer-notch-border-radius: 60px;
-	--footer-notch-background-color: rgb(255, 255, 255);
+	--footer-notch-background-color: hsl(0, 0%, 100%);
 	--brand-mute-color: rgb(211, 205, 205);
 	--brand-footer-nav-fontsize-2: 0.8rem;
 	--brand-footer-nav-fontsize: 0.9rem;
@@ -31,10 +31,12 @@
 	--brand-input-border-radius:5px;
 	--brand-button-3-border-radius:5px;
 	--brand-small-text-2:0.7rem;
+	
 }
 
 #spinner {
 	background: ghostwhite;
+	background-image: url(../../../../../Downloads/weather.jpg);
 	height: 100vh;
 	width: 100%;
 	position: fixed;

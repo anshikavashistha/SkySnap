@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "./../components/button";
-import Img_1 from "./../assets/pic_1.png";
+import Img_1 from "./../assets/static/weather.jpg";
 import Spinner from "./../components/spinner";
 import navigate from "./../inc/scripts/utilities";
 import { db } from "./../backend/app_backend";
@@ -70,7 +70,7 @@ const Home = () => {
       <div className="weather-preloader container-fluid d-flex align-items-center flex-column">
         <main className="my-5 preloader-weather-heading">
           <h2 className="text-center text-capitalize m-auto fw-bold fs-2">
-            How's today's weather?
+            SkySnap
           </h2>
         </main>
 

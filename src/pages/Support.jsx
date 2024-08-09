@@ -9,11 +9,11 @@ const Settings = () => {
   };
 
   const navigateToProject = ()=>{
-    navigate("https://github.com/Adedoyin-Emmanuel/react-weather-app");
+    navigate("https://github.com/anshikavashistha/SkySnap");
   }
 
   const navigateToGithub = () =>{
-    navigate("https://github.com/Adedoyin-Emmanuel");
+    navigate("https://github.com/anshikavashistha");
   }
 
   const [defaultLocation, setDefaultLocation] = useState("");
@@ -58,10 +58,8 @@ const Settings = () => {
               </svg>
               <p className=" text-capitalize px-3 text-dark">sponsor me!</p>
             </section>
-            Hi, I'm Adedoyin Emmanuel. I built this weather app in 2023 to
-            sharpen my react skills and also have a clean, ads free application
-            I can use. I make most of my side projects open source with the hope
-            people would be able to learn and use the things I build.
+            Hi, I'm Anshika Vashistha. I built this weather app in 2024 to
+            sharpen my react skills and web development as well. 
             <section className="d-md-flex align-items-center justify-content-center">
               <Button
                 text="support on github"
