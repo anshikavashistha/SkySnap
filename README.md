@@ -1,6 +1,5 @@
-# Awesome Weather Application
+# SkySnap
 
-(Probably the best, free, and open-source weather app out there)
 
 ## A React application built with modern technologies
 
@@ -22,12 +21,5 @@
 - **Bootstrap** [User Interface]
 - **jQuery AJAX** [API Requests]
 
-### Live Link
 
-[Visit the live application](https://zedd-weather.vercel.app)
 
-### Support
-
-Please support by starring this project. Follow me for more cool open-source projects.
-
-[GitHub - adedoyin-emmanuel](https://github.com/adedoyin-emmanuel/)
